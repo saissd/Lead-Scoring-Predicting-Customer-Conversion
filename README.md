@@ -60,7 +60,7 @@ Identify which factors impact customer conversion the most.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/lead-scoring-case-study.git
+git clone [https://github.com/yourusername/lead-scoring-case-study.git](https://github.com/saissd/Lead-Scoring-Predicting-Customer-Conversion)
 cd lead-scoring-case-study
 🔹 Step 2: Install Dependencies
 bash
