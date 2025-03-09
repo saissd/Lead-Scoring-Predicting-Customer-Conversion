@@ -45,10 +45,8 @@ Evaluate using Accuracy, AUC-ROC, Precision, Recall, F1-score.
 
 Identify which factors impact customer conversion the most.
 📊 Model Performance
-Model	Accuracy	Precision	Recall	AUC-ROC
-Logistic Regression	78.5%	74.2%	69.8%	0.81
-Random Forest	85.3%	81.4%	76.5%	0.89
-XGBoost	87.1%	83.7%	78.9%	0.91
+![image](https://github.com/user-attachments/assets/cf721bb4-01bd-4ec0-9ddf-61ea1c2fc203)
+
 🔹 XGBoost performed best with 87.1% accuracy and a 0.91 AUC-ROC score.
 🔹 Feature Importance Analysis revealed that Interest Score, Website Visits, and Ad Clicks were the top predictors of conversion.
 
