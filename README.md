@@ -17,10 +17,8 @@ This project uses a synthetic dataset mimicking real-world lead scoring data. It
 
 📌 Sample Data:
 
-Age	Gender	Income	Website_Visits	Ad_Clicks	Interest_Score	Converted
-32	Male	75000	5	2	0.78	1
-45	Female	95000	3	1	0.52	0
-27	Male	60000	8	3	0.88	1
+![image](https://github.com/user-attachments/assets/1251f417-255f-4f49-bd8b-9cee4a848c79)
+
 🛠️ Tech Stack & Tools
 Programming Language: Python 🐍
 Data Processing: Pandas, NumPy
